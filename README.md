@@ -64,4 +64,4 @@ O projeto foi construído utilizando a abordagem clássica de desenvolvimento An
 ### Passos para rodar
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/FuelCalculator.git](https://github.com/SEU_USUARIO/FuelCalculator.git)
+   git clone https://git@github.com:Elieudosilva/FuelCalculator.git
