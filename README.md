@@ -17,9 +17,14 @@ Este projeto foi desenvolvido como resolução de um desafio prático proposto p
 
 | Tela Inicial (Cálculo) | Tela de Resultado |
 |:---:|:---:|
-| <img src="Scree" alt="Tela inicial com campos para inserir valores" width="300"> | <img src="URL_DA_SUA_IMAGEM_TELA_2" alt="Tela de resultado mostrando qual combustível compensa mais" width="300"> |
-
-*(Nota: Substitua as URLs pelas suas imagens reais arrastando-as para o GitHub).*
+<!-- You can add more screenshots here if you like -->
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2572842c-4821-4088-a2ad-9bb4aaf59ad9"  alt="Screen_two" width="200" />
+    <img src="https://github.com/user-attachments/assets/e775751e-6173-4ed4-be7a-64e85558a1d4"  alt="Screen_two" width="200"/>
+    <img src="https://github.com/user-attachments/assets/2fd8accb-e6e0-43ac-9a74-09a1cd4b6ba8"  alt="Screen_two" width="200"/>
+    <img src="https://github.com/user-attachments/assets/0f4e1cf5-89f5-4853-9dc8-b57fdaca6fc0" alt="Screen_two" width="200"/>
+    <img src="https://github.com/user-attachments/assets/5e78914a-b010-4a50-a152-f9352e115c72" alt="Screen_two" width="200" /> 
+   </p>
 
 ## ✨ Funcionalidades
 
