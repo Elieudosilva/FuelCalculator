@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como resolução de um desafio prático proposto p
 
 | Tela Inicial (Cálculo) | Tela de Resultado |
 |:---:|:---:|
-| <img src="URL_DA_SUA_IMAGEM_TELA_1" alt="Tela inicial com campos para inserir valores" width="300"> | <img src="URL_DA_SUA_IMAGEM_TELA_2" alt="Tela de resultado mostrando qual combustível compensa mais" width="300"> |
+| <img src="Scree" alt="Tela inicial com campos para inserir valores" width="300"> | <img src="URL_DA_SUA_IMAGEM_TELA_2" alt="Tela de resultado mostrando qual combustível compensa mais" width="300"> |
 
 *(Nota: Substitua as URLs pelas suas imagens reais arrastando-as para o GitHub).*
 
@@ -65,8 +65,8 @@ O projeto foi construído utilizando a abordagem clássica de desenvolvimento An
 1. Faça o clone deste repositório:
    ```bash
    git clone https://git@github.com:Elieudosilva/FuelCalculator.git
-
-   ## 👤 Autor e contato profissional
+   ```
+   ### 👤 Autor e contato profissional
 
 Desenvolvido por **Elieudo Silva** como projeto de portfólio em desenvolvimento Android.
 
