@@ -65,3 +65,10 @@ O projeto foi construído utilizando a abordagem clássica de desenvolvimento An
 1. Faça o clone deste repositório:
    ```bash
    git clone https://git@github.com:Elieudosilva/FuelCalculator.git
+
+   ## 👤 Autor e contato profissional
+
+Desenvolvido por **Elieudo Silva** como projeto de portfólio em desenvolvimento Android.
+
+- **LinkedIn:** [linkedin.com/in/dierlissonjustiniano](https://www.linkedin.com/in/elieudo-silva-203838301/)
+- **GitHub:** [github.com/dierlisson](https://github.com/Elieudosilva)
