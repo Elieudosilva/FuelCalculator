@@ -14,9 +14,6 @@ O app recebe os preços da gasolina e do álcool e, com base no cálculo de rend
 Este projeto foi desenvolvido como resolução de um desafio prático proposto pela **Comunidade Nova Era**, buscando aplicar conceitos essenciais de UI, navegação e passagem de dados no Android.
 
 ## 📸 Screenshots
-
-| Tela Inicial (Cálculo) | Tela de Resultado |
-|:---:|:---:|
 <!-- You can add more screenshots here if you like -->
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2572842c-4821-4088-a2ad-9bb4aaf59ad9"  alt="Screen_two" width="200" />
